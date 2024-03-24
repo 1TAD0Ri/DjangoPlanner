@@ -4,7 +4,7 @@ Welcome to Django Planner, your gateway to Django and SQLite. This to-do list pr
 
 ## About
 
-Django Planner is a simple yet powerful to-do list application built using the Django web framework and SQLite database. It provides users with the ability to create, view, update, and delete tasks, helping them stay organized and productive.
+Django Planner is a full-stack to-do list application built using the Django web framework and SQLite database. It provides users with the ability to create, view, update, and delete tasks, helping them stay organized and productive.
 
 ## Features
 
